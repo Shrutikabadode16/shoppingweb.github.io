@@ -19,3 +19,9 @@
         color: black;
 	}
 /*#aee1e6*/
+
+/*about us section*/
+    #about p{
+      text-align: justify;
+      user-select: none;
+    }
